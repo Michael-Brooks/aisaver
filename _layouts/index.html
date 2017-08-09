@@ -14,16 +14,14 @@
       <h1 class="project-name">{{page.title}}</h1>
       <h2 class="project-tagline">{{page.description}}</h2>
       
-        <a href="http://github.com/michael-brooks.github.io/aisaver" class="btn">Manage Money</a>
-        <a href="http://github.com/michael-brooks.github.io/aisaver" class="btn">Save Money</a>
-        <a href="http://github.com/michael-brooks.github.io/aisaver" class="btn">Banking Apps</a>
-        <a href="http://github.com/michael-brooks.github.io/aisaver" class="btn">Finance Apps</a>
-      
+      {% include nav.html %}
       
     </section>
 
     <section class="main-content">
       {{content}}
+
+      {% include footer.html %}
     </section>
 
     
