@@ -6,11 +6,7 @@ meta-title: Automated Money Managers
 meta-description: Use these Facebook messenger robots to help manage your money. Receive monthly budget updates, view incoming and outgoing funds. Receive coupons for shopping on stores you frequently shop at
 ---
 
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
-      {{ post.excerpt }}
-    </li>
-  {% endfor %}
-</ul>
+{% for post in site.posts %}
+  <h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
+  {{ post.excerpt }}
+{% endfor %}

@@ -1,54 +1,71 @@
 ---
-title: Automated Money Managers
-description: Use these Facebook messenger robots to help manage your money. Receive monthly budget updates, view incoming and outgoing funds. Receive coupons for shopping on stores you frequently shop at
+title: Banking Apps
+description: Looking for a new bank? Try these mobile only banking apps to help you create a more secure and future proof current/savings accounts. 
 layout: index
-meta-title: Automated Money Managers
-meta-description: Use these Facebook messenger robots to help manage your money. Receive monthly budget updates, view incoming and outgoing funds. Receive coupons for shopping on stores you frequently shop at
+meta-title: Banking Apps
+meta-description: Looking for a new bank? Try these mobile only banking apps to help you create a more secure and future proof current/savings accounts. 
 ---
 
 <div class="ui cards">
     <div class="card">
     <div class="image">
-        <img src="http://res.cloudinary.com/dxkhwdsvm/image/upload/v1502356451/cleo_xenqfl.jpg">
+        <img src="http://res.cloudinary.com/dxkhwdsvm/image/upload/v1502445496/monzo_ozyig0_hmgzh2.png">
     </div>
     <div class="content">
-        <a class="header">Cleo</a>
+        <a class="header">Monzo</a>
         <div class="description">
-        <p>The smart assistant for your money. Sign up for free, it takes less than 2 minutes.</p>
-        <ul>
-            <li>Automate monthly budgets</li>
-            <li>Receive alerts when spending too much</li>
-            <li>View breakdown of monthly spend</li>
-        </ul>
+        <p>Built for your smartphone, this is banking like never before. One that updates your balance instantly, sends intelligent notifications, and is actually easy to use.</p>
         </div>
     </div>
     <div class="extra content">
-      <div class="ui two buttons">
-        <a href="https://meetcleo.com/" class="ui basic primary button">Visit Website</a>
-        <a href="https://m.me/meetcleo/?ref=cleo-d4cs6H" class="ui basic green button">Sign Up</a>
-      </div>
+        <a href="https://monzo.com/" class="fluid ui basic primary button">Visit Website</a>
     </div>
     </div>
     <div class="card">
     <div class="image">
-        <img src="http://res.cloudinary.com/dxkhwdsvm/image/upload/v1502356451/cleo_xenqfl.jpg">
+        <img src="http://res.cloudinary.com/dxkhwdsvm/image/upload/v1502445864/social-image_vi1vvp_wz0lxw.png">
     </div>
     <div class="content">
-        <a class="header">Cleo</a>
+        <a class="header">Starling Bank</a>
         <div class="description">
-        <p>The smart assistant for your money. Sign up for free, it takes less than 2 minutes.</p>
+        <p>See your money in a new way.
+            A UK mobile only bank app, built from scratch.</p>
+        </div>
+    </div>
+    <div class="extra content">
+      <a href="https://www.starlingbank.com/" class="fluid ui basic primary button">Visit Website</a>
+    </div>
+    </div>
+    <div class="card">
+    <div class="image">
+        <img src="http://res.cloudinary.com/dxkhwdsvm/image/upload/v1502446268/atom-bank_b63gdt_db57i3.jpg">
+    </div>
+    <div class="content">
+        <a class="header">Atom Bank</a>
+        <div class="description">
+        <p>We’re the UK’s first bank built exclusively for mobile. We’re redefining what a bank should be, making things straightforward, personal and great value. What’s more, we’re always at hand, because we’ll be packing an entire bank into our App.</p>
+        </div>
+    </div>
+    <div class="extra content">
+      <a href="https://www.atombank.co.uk/" class="fluid ui basic primary button">Visit Website</a>
+    </div>
+    </div>
+    <div class="card">
+    <div class="image">
+        <img src="http://res.cloudinary.com/dxkhwdsvm/image/upload/v1502447536/AAEAAQAAAAAAAAhfAAAAJDYyZWFlMjE4LTk2N2QtNGVlMy1iZjNjLTVmNWM4NGE0M2NkYQ_ntzvdy_pbkhyd.png">
+    </div>
+    <div class="content">
+        <a class="header">Chip</a>
+        <div class="description">
         <ul>
-            <li>Automate monthly budgets</li>
-            <li>Receive alerts when spending too much</li>
-            <li>View breakdown of monthly spend</li>
+            <li>Save automatically without feeling it</li>
+            <li>Save up for the things that matter to you</li>
+            <li>Earn up to 5% interest on your stash</li>
         </ul>
         </div>
     </div>
     <div class="extra content">
-      <div class="ui two buttons">
-        <a href="https://www.mespo.co.uk/" class="ui basic primary button">Visit Website</a>
-        <a href="https://l.messenger.com/l.php?u=https%3A%2F%2Fm.me%2FMobillityUK%3Fref%3DeyJyZWZlcnJhbFR5cGUiOiJNZXNzZW5nZXJTaGFyZSIsInBheWxvYWQiOnsidXNlcklkIjoiMTI5ODI2NTUxMDIyMDY4NiJ9fQ%3D%3D&h=ATNlJxNw1IZapWdKc9as0_5gJTYVUWC7EOcCl54iqoHSeBVFRU4ZtY52p8rR30yT53xNlaEmzNvxYamT9K3tDA6qmektloePKIsNzmuUtE8pDBFA7O-He7tZJ7Dpd7YqdiYxYQ" class="ui basic green button">Sign Up</a>
-      </div>
+      <a href="https://getchip.uk/" class="fluid ui basic primary button">Visit Website</a>
     </div>
     </div>
 </div>

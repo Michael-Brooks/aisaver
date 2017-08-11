@@ -1,54 +1,40 @@
 ---
-title: Automated Money Managers
-description: Use these Facebook messenger robots to help manage your money. Receive monthly budget updates, view incoming and outgoing funds. Receive coupons for shopping on stores you frequently shop at
+title: Invest your money 
+description: Use these apps to invest your savings and earn more interest. 
 layout: index
-meta-title: Automated Money Managers
-meta-description: Use these Facebook messenger robots to help manage your money. Receive monthly budget updates, view incoming and outgoing funds. Receive coupons for shopping on stores you frequently shop at
+meta-title: Invest your money 
+meta-description: Use these apps to invest your savings and earn more interest. 
 ---
 
 <div class="ui cards">
     <div class="card">
     <div class="image">
-        <img src="http://res.cloudinary.com/dxkhwdsvm/image/upload/v1502356451/cleo_xenqfl.jpg">
+        <img src="http://res.cloudinary.com/dxkhwdsvm/image/upload/v1502447302/Moneybox_lfimu6_bz9sca.png">
     </div>
     <div class="content">
-        <a class="header">Cleo</a>
+        <a class="header">Moneybox</a>
         <div class="description">
-        <p>The smart assistant for your money. Sign up for free, it takes less than 2 minutes.</p>
-        <ul>
-            <li>Automate monthly budgets</li>
-            <li>Receive alerts when spending too much</li>
-            <li>View breakdown of monthly spend</li>
-        </ul>
+        <p>Invest your spare change.</p>
+        <p>From your morning coffee to last night's Uber, round up your everyday purchases to the nearest pound and invest the change.</p>
+        <p>With just £1, you can invest in companies such as Netflix, Unilever and Disney via three tracker funds.</p>
         </div>
     </div>
     <div class="extra content">
-      <div class="ui two buttons">
-        <a href="https://meetcleo.com/" class="ui basic primary button">Visit Website</a>
-        <a href="https://m.me/meetcleo/?ref=cleo-d4cs6H" class="ui basic green button">Sign Up</a>
-      </div>
+        <a href="https://www.moneyboxapp.com/" class="fluid ui basic primary button">Visit Website</a>
     </div>
     </div>
     <div class="card">
     <div class="image">
-        <img src="http://res.cloudinary.com/dxkhwdsvm/image/upload/v1502356451/cleo_xenqfl.jpg">
+        <img src="http://res.cloudinary.com/dxkhwdsvm/image/upload/v1502447236/ratesetter-logo_vsbzen_xbwdzr_j9sjwp.png">
     </div>
     <div class="content">
-        <a class="header">Cleo</a>
+        <a class="header">Rate Setter</a>
         <div class="description">
-        <p>The smart assistant for your money. Sign up for free, it takes less than 2 minutes.</p>
-        <ul>
-            <li>Automate monthly budgets</li>
-            <li>Receive alerts when spending too much</li>
-            <li>View breakdown of monthly spend</li>
-        </ul>
+        <p>People with money to invest want a great return. Households and businesses want attractive loans. We match them up and help them share in the value of their exchange.</p>
         </div>
     </div>
     <div class="extra content">
-      <div class="ui two buttons">
-        <a href="https://www.mespo.co.uk/" class="ui basic primary button">Visit Website</a>
-        <a href="https://l.messenger.com/l.php?u=https%3A%2F%2Fm.me%2FMobillityUK%3Fref%3DeyJyZWZlcnJhbFR5cGUiOiJNZXNzZW5nZXJTaGFyZSIsInBheWxvYWQiOnsidXNlcklkIjoiMTI5ODI2NTUxMDIyMDY4NiJ9fQ%3D%3D&h=ATNlJxNw1IZapWdKc9as0_5gJTYVUWC7EOcCl54iqoHSeBVFRU4ZtY52p8rR30yT53xNlaEmzNvxYamT9K3tDA6qmektloePKIsNzmuUtE8pDBFA7O-He7tZJ7Dpd7YqdiYxYQ" class="ui basic green button">Sign Up</a>
-      </div>
+        <a href="https://www.ratesetter.com/" class="fluid ui basic primary button">Visit Website</a>
     </div>
     </div>
 </div>

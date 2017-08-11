@@ -1,9 +1,9 @@
 ---
-title: Automated Money Managers
-description: Use these Facebook messenger robots to help manage your money. Receive monthly budget updates, view incoming and outgoing funds. Receive coupons for shopping on stores you frequently shop at
+title: Automated Savings
+description: Use these Facebook messenger robots to help you save money. Small amounts automatically leave your account and you can deposit it back in to your bank account when you're ready. 
 layout: index
-meta-title: Automated Money Managers
-meta-description: Use these Facebook messenger robots to help manage your money. Receive monthly budget updates, view incoming and outgoing funds. Receive coupons for shopping on stores you frequently shop at
+meta-title: Automated Savings
+meta-description: Use these Facebook messenger robots to help you save money. Small amounts automatically leave your account and you can deposit it back in to your bank account when you're ready. 
 ---
 
 <div class="ui cards">
@@ -19,7 +19,7 @@ meta-description: Use these Facebook messenger robots to help manage your money.
     </div>
     <div class="extra content">
       <div class="ui two buttons">
-        <a href="https://withplum.com/" class="ui basic primary button">Visit Website</a>
+        <a href="https://withplum.com/" class="ui basic primary button">Website</a>
         <a href="https://friends.withplum.com/r/ywtcG3" class="ui basic green button">Sign Up</a>
       </div>
     </div>
