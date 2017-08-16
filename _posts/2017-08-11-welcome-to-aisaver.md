@@ -4,8 +4,8 @@ description:
 layout: blog
 meta-title: Welcome to AISaver
 meta-description: This is our newly built website and we hope you enjoy.
-date:   2015-11-17 16:16:01 -0600
-categories: jekyll update
+date: 2015-11-17 16:16:01 +0000
+categories: blog update
 excerpt_separator: <!--more-->
 ---
 
