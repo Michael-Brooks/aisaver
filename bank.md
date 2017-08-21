@@ -50,22 +50,4 @@ meta-description: Looking for a new bank? Try these mobile only banking apps to 
       <a href="https://www.atombank.co.uk/" class="fluid ui basic primary button">Visit Website</a>
     </div>
     </div>
-    <div class="card">
-    <div class="image">
-        <img src="http://res.cloudinary.com/dxkhwdsvm/image/upload/v1502447536/AAEAAQAAAAAAAAhfAAAAJDYyZWFlMjE4LTk2N2QtNGVlMy1iZjNjLTVmNWM4NGE0M2NkYQ_ntzvdy_pbkhyd.png">
-    </div>
-    <div class="content">
-        <a class="header">Chip</a>
-        <div class="description">
-        <ul>
-            <li>Save automatically without feeling it</li>
-            <li>Save up for the things that matter to you</li>
-            <li>Earn up to 5% interest on your stash</li>
-        </ul>
-        </div>
-    </div>
-    <div class="extra content">
-      <a href="https://getchip.uk/" class="fluid ui basic primary button">Visit Website</a>
-    </div>
-    </div>
 </div>
