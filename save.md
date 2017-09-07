@@ -9,7 +9,7 @@ meta-description: Use these Facebook messenger robots to help you save money. Sm
 <div class="ui cards">
     <div class="card">
     <div class="image">
-        <img src="http://res.cloudinary.com/dxkhwdsvm/image/upload/v1502367544/_EJgRjxf_plqrxf_cropped_lmwa3t.jpg">
+        <img src="//res.cloudinary.com/dxkhwdsvm/image/upload/v1502367544/_EJgRjxf_plqrxf_cropped_lmwa3t.jpg">
     </div>
     <div class="content">
         <a class="header">Plum</a>
@@ -26,7 +26,7 @@ meta-description: Use these Facebook messenger robots to help you save money. Sm
     </div>
     <div class="card">
     <div class="image">
-        <img src="http://res.cloudinary.com/dxkhwdsvm/image/upload/v1502447536/AAEAAQAAAAAAAAhfAAAAJDYyZWFlMjE4LTk2N2QtNGVlMy1iZjNjLTVmNWM4NGE0M2NkYQ_ntzvdy_pbkhyd.png">
+        <img src="//res.cloudinary.com/dxkhwdsvm/image/upload/v1502447536/AAEAAQAAAAAAAAhfAAAAJDYyZWFlMjE4LTk2N2QtNGVlMy1iZjNjLTVmNWM4NGE0M2NkYQ_ntzvdy_pbkhyd.png">
     </div>
     <div class="content">
         <a class="header">Chip</a>

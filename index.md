@@ -9,7 +9,7 @@ meta-description: Use these Facebook messenger robots to help manage your money.
 <div class="ui cards">
     <div class="card">
     <div class="image">
-        <img src="http://res.cloudinary.com/dxkhwdsvm/image/upload/v1502367175/cleo_xenqfl_cropped_hlxgk5.jpg">
+        <img src="//res.cloudinary.com/dxkhwdsvm/image/upload/v1502367175/cleo_xenqfl_cropped_hlxgk5.jpg">
     </div>
     <div class="content">
         <a class="header">Cleo</a>
@@ -31,7 +31,7 @@ meta-description: Use these Facebook messenger robots to help manage your money.
     </div>
     <div class="card">
     <div class="image">
-        <img src="http://res.cloudinary.com/dxkhwdsvm/image/upload/v1502356451/aisaverimage_2_360_t67vay.jpg">
+        <img src="//res.cloudinary.com/dxkhwdsvm/image/upload/v1502356451/aisaverimage_2_360_t67vay.jpg">
     </div>
     <div class="content">
         <a class="header">Mespo</a>

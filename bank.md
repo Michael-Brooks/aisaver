@@ -9,7 +9,7 @@ meta-description: Looking for a new bank? Try these mobile only banking apps to 
 <div class="ui cards">
     <div class="card">
     <div class="image">
-        <img src="http://res.cloudinary.com/dxkhwdsvm/image/upload/v1502445496/monzo_ozyig0_hmgzh2.png">
+        <img src="//res.cloudinary.com/dxkhwdsvm/image/upload/v1502445496/monzo_ozyig0_hmgzh2.png">
     </div>
     <div class="content">
         <a class="header">Monzo</a>
@@ -23,7 +23,7 @@ meta-description: Looking for a new bank? Try these mobile only banking apps to 
     </div>
     <div class="card">
     <div class="image">
-        <img src="http://res.cloudinary.com/dxkhwdsvm/image/upload/v1502445864/social-image_vi1vvp_wz0lxw.png">
+        <img src="//res.cloudinary.com/dxkhwdsvm/image/upload/v1502445864/social-image_vi1vvp_wz0lxw.png">
     </div>
     <div class="content">
         <a class="header">Starling Bank</a>
@@ -38,7 +38,7 @@ meta-description: Looking for a new bank? Try these mobile only banking apps to 
     </div>
     <div class="card">
     <div class="image">
-        <img src="http://res.cloudinary.com/dxkhwdsvm/image/upload/v1502446268/atom-bank_b63gdt_db57i3.jpg">
+        <img src="//res.cloudinary.com/dxkhwdsvm/image/upload/v1502446268/atom-bank_b63gdt_db57i3.jpg">
     </div>
     <div class="content">
         <a class="header">Atom Bank</a>
