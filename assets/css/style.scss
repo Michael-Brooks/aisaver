@@ -8,3 +8,13 @@
         max-width: 73% !important;
     }
 }
+
+.ui.basic.primary.button:focus, .ui.basic.primary.buttons .button:focus {
+    background: #2185d0!important;
+    color: #fff !important;
+}
+
+.ui.basic.green.button:focus, .ui.basic.green.buttons .button:focus {
+    background: #16ab39!important;
+    color: #fff!important;
+}
