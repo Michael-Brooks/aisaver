@@ -44,7 +44,7 @@ meta-description: Use these apps to invest your savings and earn more interest.
     <div class="content">
         <a class="header">Plum</a>
         <div class="description">
-        <p>Plum is the little savings butler you’ve been waiting for. It monitors your spending, automatically sets money aside for you and is always available on Facebook Messenger. Simple, stress-free savings.</p>
+        <p>Build up your savings, invest in things that matter and spend less on those pesky bills. Sign up now, it's free ❤️</p>
         </div>
     </div>
     <div class="extra content">
